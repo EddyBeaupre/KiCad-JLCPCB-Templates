@@ -10,7 +10,7 @@ Templates for 2 layers and multilayers PCB compatible with JCLPCB's capabilities
 
 ### Installing
 
-* Copy the to ```{KICAD_USER_TEMPLATE_DIR}``` (See Preferences->Configure Paths... for the location )
+* Copy the content of the template directory to ```{KICAD_USER_TEMPLATE_DIR}``` (See Preferences->Configure Paths... for the location )
 
 ### Usage
 
